@@ -10,3 +10,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Netlify (At this point there is no backend, however there will be soon!)
+https://elastic-hermann-c0aa47.netlify.app
