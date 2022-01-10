@@ -6,10 +6,7 @@ This project is a tutorial to better understand React. The app is a simple user 
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run dev`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the both the backend (http://localhost:5000/feedback) and the development server (http://localhost:3000) at the same time. 
 
-## Netlify (At this point there is no backend, however there will be soon!)
-https://elastic-hermann-c0aa47.netlify.app
