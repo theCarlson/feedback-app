@@ -10,3 +10,6 @@ In the project directory, you can run:
 
 Runs the both the backend (http://localhost:5000/feedback) and the development server (http://localhost:3000) at the same time. 
 
+### Netlify
+- This version is not connected to a backend and any data shown in the UI will be lost upon refresh.
+https://eager-brattain-753d99.netlify.app 
